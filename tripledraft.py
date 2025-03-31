@@ -9,7 +9,7 @@ import random
 
 # Twitch Bot Configuration
 TWITCH_NICKNAME = "littleindianboi637"
-TWITCH_TOKEN =   # Get from https://twitchapps.com/tmi/
+TWITCH_TOKEN =   ""# Get from https://twitchapps.com/tmi/
 TWITCH_CHANNEL = "littleindianboi637"
 
 pagename = "SM-G990U1"
