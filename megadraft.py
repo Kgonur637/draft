@@ -10,7 +10,7 @@ import win32gui
 
 # Twitch Bot Configuration
 TWITCH_NICKNAME = "littleindianboi637"
-TWITCH_TOKEN = "8q9y75jav8klrekhn2rrqaiw7pstiq"  # Get from https://twitchapps.com/tmi/
+TWITCH_TOKEN = ""  # Get from https://twitchapps.com/tmi/
 TWITCH_CHANNEL = "littleindianboi637"
 
 PIXEL_COORD1 = (1169, 947)
